@@ -1,6 +1,6 @@
-# TaBiB Healthcare Chatbot
+#  Healthcare Chatbot
 
-***Tabib: Chatbot for Healthcare Automation with Audio Assistance using Artificial Intelligence***
+*** Chatbot for Healthcare Automation with Audio Assistance using Artificial Intelligence***
 
 > *Purpose    :   Major Project*
 > 
@@ -14,7 +14,7 @@
 > 
 
 ****
-***TaBiB Bot Commands***
+*** Bot Commands***
 
 - **Download and install Anaconda**
 ```
@@ -71,7 +71,7 @@ rasa run -m models --endpoints endpoints.yml --port 5002 --credentials credentia
 
 - **Running Flask for Web App**  _open another terminal_
 ```
-cd (target  Tabib_Bot\web_app  directory) [ex: cd C:\Users\Computer Name\Downloads\Tabib_Bot\web_app]
+cd (target  Tabib_Bot\web_app  directory) [ex: cd C:\Users\Computer Name\Downloads\Bot\web_app]
 ```
 ```
 flask run
@@ -96,13 +96,6 @@ rasa visualize
 ```
 
 ****
-## Team Members
-***[@github/adham-n4a7](https://github.com/adham-n4a7)***
 
-***[@github/aakif123](https://github.com/aakif123)***
-
-***[@github/afsar](https://github.com/)***
-
-***[@github/nazim](https://github.com/)***
 
 ****
